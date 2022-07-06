@@ -2,6 +2,9 @@ body{
     margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
+.attraction{
+    color: tomato;
+}
 .button{
     padding: 10px 40px;
     background-image: linear-gradient(tomato,orange);
@@ -63,5 +66,19 @@ body{
     margin: 3px;
     border-radius: 10px;
     text-align: left;
+}
+.as-usual-activites{
+    text-align: center;
+}
+#street-children-image{
+    height: 300px;
+    width: 300px;
+}
+.street-children{
+    padding: 2%;
+    border: 7px solid gray;
+    border-radius: 20px;
+    margin: 5%;
+    background-color: lightgray;
 }
 
