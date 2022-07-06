@@ -6,7 +6,7 @@ body{
     color: tomato;
 }
 .button{
-    padding: 10px 40px;
+    padding: 9px 40px;
     background-image: linear-gradient(tomato,orange);
     text-decoration: none;
     color: white;
@@ -80,5 +80,24 @@ body{
     border-radius: 20px;
     margin: 5%;
     background-color: lightgray;
+}
+input 
+{
+  padding: 3px;
+  width: 400px;
+  height: 20px;
+  padding-bottom: 30px;
+}
+#updates{
+    text-align: center;
+    margin: 10% 10%;
+
+}
+#get-gmail{
+    display: flex;
+    justify-content: center;
+    padding: 5% 3%;
+    background-color: lightpink;
+    border-radius: 10px;
 }
 
