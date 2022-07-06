@@ -2,9 +2,11 @@ body{
     margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
+/* I have used it many times */
 .attraction{
     color: tomato;
 }
+/* I have used it many times */
 .button{
     padding: 9px 40px;
     background-image: linear-gradient(tomato,orange);
@@ -14,6 +16,7 @@ body{
     border-radius: 5px;
     
 }
+/* I have used it some times */
 .section-heading{
     font-size: 50px;
     margin-bottom: 0px;
@@ -29,7 +32,7 @@ body{
     padding:1% 30%;
 }
 #banner-title{
-    color:rgb(22, 172, 82);
+    color:white ;
     font-size: 45px;
     font-weight:bolder;
 }
@@ -99,5 +102,11 @@ input
     padding: 5% 3%;
     background-color: lightpink;
     border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    padding:50px ;
+    background-color: aquamarine;
 }
 
