@@ -53,4 +53,15 @@ body{
 .low-brightness{
     opacity: 0.5;
 }
+#donate-plan{
+    text-align: center;
+    padding: 10%;
+}
+.our-services{
+    padding: 10% 5%;
+    background-image: linear-gradient(aqua,gray);
+    margin: 3px;
+    border-radius: 10px;
+    text-align: left;
+}
 
