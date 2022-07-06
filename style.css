@@ -2,3 +2,27 @@ body{
     margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
+.button{
+    padding: 10px 40px;
+    background-image: linear-gradient(tomato,orange);
+    text-decoration: none;
+    color: white;
+    font: 3em;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/banner.jpg);
+    background-repeat: no-repeat;
+    height: 60%;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: rgb(213, 187, 14);
+    padding:1% 30%;
+}
+#banner-title{
+    color:rgb(22, 172, 82);
+    font-size: 45px;
+    font-weight:bolder;
+}
+
