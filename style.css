@@ -10,6 +10,10 @@ body{
     font: 3em;
     border-radius: 5px;
 }
+.section-heading{
+    font-size: 50px;
+    margin-bottom: 0px;
+}
 .top-banner{
     background-image: url(images/banner.jpg);
     background-repeat: no-repeat;
@@ -24,5 +28,25 @@ body{
     color:rgb(22, 172, 82);
     font-size: 45px;
     font-weight:bolder;
+}
+.donation-section{
+    text-align: center;
+    padding:0% 25%;
+}
+.donate-process{
+    display: flex;
+}
+.amount{
+    padding: 40px 40px;
+    background-color: rgb(200, 221, 243);
+    margin: 2px;
+    border-radius: 5px;
+}
+.amount p{
+    font-size: 25px;
+}
+#selected-amount{
+    border: 3px solid tomato;
+    background-color: white;
 }
 
